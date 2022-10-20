@@ -2,11 +2,11 @@
   <a href="https://twitter.com/abayzv">
     <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40abayzv&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
-  <a href="https://www.linkedin.com/in/ahmad-saugi/">
-    <img src="https://img.shields.io/badge/-ahmad%20saugi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="https://www.linkedin.com/in/aji-bayu-nugroho-54676a12a/">
+    <img src="https://img.shields.io/badge/-aji%20bayu-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="mailto:saugi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/saugi.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="mailto:ajipunk008@gmail.com">
+    <img src="https://img.shields.io/badge/ajipunk008@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
